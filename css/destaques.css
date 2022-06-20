@@ -39,3 +39,17 @@
     border-color: var(--vermelho-forte);
     margin: 0 auto;
 }
+
+
+/*DESKTOPs*/
+
+@media screen and (min-width: 1024px) {
+    .destaques__painel-imagem {
+        width: 70vw;
+    }
+
+    .destaques__painel-texto {
+        padding-top: .7rem;
+        margin-bottom: .1rem;
+    }
+}
