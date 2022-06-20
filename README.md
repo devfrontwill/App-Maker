@@ -1,2 +1,2 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+Projeto criado com a metodologia mobile first
